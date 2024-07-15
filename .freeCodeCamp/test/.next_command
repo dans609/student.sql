@@ -65,3 +65,4 @@ psql --username=freecodecamp --dbname=students
 ./insert_data.sh
 help let
 help test
+cp courses.csv courses_test.csv
